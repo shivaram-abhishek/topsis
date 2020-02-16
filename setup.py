@@ -25,9 +25,7 @@ setup(
 
   install_requires=[            # I get to this in a second
 
-          'validators',
-
-          'beautifulsoup4',
+          'numpy'
 
       ],
 
