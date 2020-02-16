@@ -18,7 +18,7 @@ setup(
 
   url = 'https://github.com/shivaram-abhishek/topsis101703028',
 
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/shivaram-abhishek/topsis/archive/0.3.tar.gz',
 
   keywords = ['TOPSIS'],
 
